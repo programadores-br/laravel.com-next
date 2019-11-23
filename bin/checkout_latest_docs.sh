@@ -2,7 +2,7 @@
 
 DOCS_VERSIONS=(
   master
-  6.x
+  6.x-pt-br
   5.8
   5.7
   5.6
