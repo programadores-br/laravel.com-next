@@ -13,7 +13,7 @@
                                 <img src="/img/ecosystem/vapor.min.svg" alt="Nova">
                             </div>
                             <div class="banner_content">
-                                <p class="small">Laravel Vapor is now available! Sign up today!
+                                <p class="small">Laravel Vapor Esta disponível! Inscreva=se hoje!
                                     <span class="arrow">→</span></p>
                             </div>
                         </a>
@@ -26,11 +26,11 @@
                                 </video>
                             </div>
                             <div class="hero_content">
-                                <h1>The PHP Framework for Web Artisans</h1>
-                                <p>Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.</p>
+                                <h1>O Framemork PHP para Artesãos Web</h1>
+                                <p>Laravel é um framework web com sintaxe expressiva e elegante. Nós já lançamos as bases — Deixando você livre para criar sem se preocupar com os detalhes.</p>
                                 <div class="hero_actions">
-                                    <a href="/docs" class="btn"><span>Documentation</span></a>
-                                    <a href="https://laracasts.com" data-remodal-target="video_modal" class="btn secondary"><span><img src="/img/icons/play.min.svg" alt="Play Video"><span>Watch Laracasts</span></span></a>
+                                    <a href="/docs" class="btn"><span>Documentação</span></a>
+                                    <a href="https://laracasts.com" data-remodal-target="video_modal" class="btn secondary"><span><img src="/img/icons/play.min.svg" alt="Play Video"><span>Assista o Laracasts</span></span></a>
 
 <!--                                     <div data-remodal-id="video_modal" class="video_modal remodal">
                                         <div class="video_contain">
@@ -63,7 +63,7 @@
                                 </div>
                                 <div class="content">
                                     <h1>Laravel Vapor</h1>
-                                    <p>Laravel Vapor is a serverless deployment platform for Laravel, powered by AWS. Launch your Laravel infrastructure on Vapor and fall in love with the scalable simplicity of serverless.</p>
+                                    <p>Laravel Vapor é uma plataforma de deploy serverless para Laravel, Fornecida pela AWS. Suba sua infraestrutura Laravel no Vapor e encante-se com a escalabilidade e simplicidade do serverless.</p>
                                     <a href="https://vapor.laravel.com" class="btn"><span>Learn More</span></a>
                                 </div>
                             @else
@@ -72,58 +72,58 @@
                                 </div>
                                 <div class="content">
                                     <h1>Laravel Forge</h1>
-                                    <p>Instant PHP Platforms on DigitalOcean, Linode, and more. Featuring push-to-deploy, Redis, queues, and everything else you could need to launch and deploy impressive Laravel applications.</p>
-                                    <a href="https://forge.laravel.com" class="btn"><span>Learn More</span></a>
+                                    <p>Plataformas instantaneas na DigitalOcean, Linode, e mais. Apresentando push-to-deploy, Redis, queues, e tudo o mais que você precisa para subir e implementar aplicações Laravel impressionantes.</p>
+                                    <a href="https://forge.laravel.com" class="btn"><span>Saiba mais</span></a>
                                 </div>
                             @endif
                         </div>
 
                         <div class="ecosystem_block">
                             <div class="heading">
-                                <h6>Revolutionize how you build the web.</h6>
-                                <h1>The Laravel Ecosystem</h1>
+                                <h6>Revolucione como você controi a web.</h6>
+                                <h1>O Ecosistema Laravel</h1>
                             </div>
                             <ul class="ecosystem">
                                 <li class="sys_vapor">
                                     <a href="https://vapor.laravel.com">
                                         <div class="system_icon"><img src="/img/ecosystem/vapor.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Vapor <span>Serverless Platform</span></div>
+                                        <div class="system_info">Vapor <span>Plataforma Serverless</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_forge">
                                     <a href="https://forge.laravel.com">
                                         <div class="system_icon"><img src="/img/ecosystem/forge.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Forge <span>Server Management</span></div>
+                                        <div class="system_info">Forge <span>Gerenciamento de Servidor</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_envoyer">
                                     <a href="https://envoyer.io">
                                         <div class="system_icon"><img src="/img/ecosystem/envoyer.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Envoyer <span>Zero Downtime Deployment</span></div>
+                                        <div class="system_info">Envoyer <span>Implantação Zero Downtime</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_horizon">
                                     <a href="/docs/{{DEFAULT_VERSION}}/horizon">
                                         <div class="system_icon"><img src="/img/ecosystem/horizon.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Horizon <span>Queue Monitoring</span></div>
+                                        <div class="system_info">Horizon <span>Monitoramento de filas</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_nova">
                                     <a href="https://nova.laravel.com">
                                         <div class="system_icon"><img src="/img/ecosystem/nova.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Nova <span>Administration Panel</span></div>
+                                        <div class="system_info">Nova <span>Painel Administrativo</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_echo">
                                     <a href="/docs/{{DEFAULT_VERSION}}/broadcasting">
                                         <div class="system_icon"><img src="/img/ecosystem/echo.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Echo <span>Realtime Events</span></div>
+                                        <div class="system_info">Echo <span>Eventos Realtime</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_lumen">
@@ -137,7 +137,7 @@
                                     <a href="/docs/{{DEFAULT_VERSION}}/homestead">
                                         <div class="system_icon">
                                             <img src="/img/ecosystem/homestead.min.svg" alt="Icon"></div>
-                                        <div class="system_info">Homestead <span>Pre-Packaged Vagrant Box</span></div>
+                                        <div class="system_info">Homestead <span>Vagrant Box Pré-empacotado</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_spark">
@@ -151,21 +151,21 @@
                                     <a href="/docs/{{DEFAULT_VERSION}}/valet">
                                         <div class="system_icon"><img src="/img/ecosystem/valet.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Valet <span>Dev Environment for Macs</span></div>
+                                        <div class="system_info">Valet <span>Ambiente de desenvolvimento para Macs</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_mix">
                                     <a href="/docs/{{DEFAULT_VERSION}}/mix">
                                         <div class="system_icon"><img src="/img/ecosystem/mix.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Mix <span>Webpack Asset Compilation</span></div>
+                                        <div class="system_info">Mix <span>Compilador Webpack</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_cashier">
                                     <a href="/docs/{{DEFAULT_VERSION}}/billing">
                                         <div class="system_icon"><img src="/img/ecosystem/cashier.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Cashier <span>Subscription Billing</span>
+                                        <div class="system_info">Cashier <span>Faturamento de assinaturas</span>
                                         </div>
                                     </a>
                                 </li>
@@ -173,7 +173,7 @@
                                     <a href="/docs/{{DEFAULT_VERSION}}/dusk">
                                         <div class="system_icon"><img src="/img/ecosystem/dusk.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Dusk <span>Browser Testing and Automation</span>
+                                        <div class="system_info">Dusk <span>Browser Testing e Automação</span>
                                         </div>
                                     </a>
                                 </li>
@@ -181,35 +181,35 @@
                                     <a href="/docs/{{DEFAULT_VERSION}}/passport">
                                         <div class="system_icon">
                                             <img src="/img/ecosystem/passport.min.svg" alt="Icon"></div>
-                                        <div class="system_info">Passport <span>Painless OAuth2 Implementation</span></div>
+                                        <div class="system_info">Passport <span>Implementação simples do OAuth2</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_scout">
                                     <a href="/docs/{{DEFAULT_VERSION}}/scout">
                                         <div class="system_icon"><img src="/img/ecosystem/scout.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Scout <span>Full-Text Search</span></div>
+                                        <div class="system_info">Scout <span>Pesquisa de texto</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_socialite">
                                     <a href="/docs/{{DEFAULT_VERSION}}/socialite">
                                         <div class="system_icon">
                                             <img src="/img/ecosystem/socialite.min.svg" alt="Icon"></div>
-                                        <div class="system_info">Socialite <span>OAuth Authentication</span></div>
+                                        <div class="system_info">Socialite <span>Autenticação OAuth</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_telescope">
                                     <a href="/docs/{{DEFAULT_VERSION}}/telescope">
                                         <div class="system_icon">
                                             <img src="/img/ecosystem/telescope.min.svg" alt="Icon"></div>
-                                        <div class="system_info">Telescope <span>Debug Assistant</span></div>
+                                        <div class="system_info">Telescope <span>Assitente de Debug</span></div>
                                     </a>
                                 </li>
                                 <li class="sys_tinker">
                                     <a href="https://github.com/laravel/tinker">
                                         <div class="system_icon"><img src="/img/ecosystem/tinker.min.svg" alt="Icon">
                                         </div>
-                                        <div class="system_info">Tinker <span>Interactive REPL</span></div>
+                                        <div class="system_info">Tinker <span>REPL Interativo</span></div>
                                     </a>
                                 </li>
                             </ul>
@@ -217,20 +217,20 @@
 
                         <div class="content_block bg_right resources">
                             <div class="content">
-                                <h6>Resources</h6>
-                                <h1>A community built for people like you</h1>
-                                <p>Whether you’re a solo developer or a 20-person team, getting started is simple thanks to our great community.</p>
+                                <h6>Recursos</h6>
+                                <h1>Uma comunidade criada para pessoas como você</h1>
+                                <p>Se você é um desenvolvedor solo ou uma equipe de 20 pessoas, começar é facil, graças a nossa grande comunidade.</p>
                                 <ul class="resource_list">
                                     <li><a href="https://blog.laravel.com">Blog</a></li>
                                     <li><a href="https://laracasts.com">Laracasts</a></li>
                                     <!-- <li><a href="http://laravelpodcast.com/">Podcast</a></li> -->
                                     <li><a href="https://laravel-news.com">Laravel News</a></li>
                                     <li><a href="https://laracon.us/">Laracon</a></li>
-                                    <li><a href="https://larajobs.com/">Jobs</a></li>
+                                    <li><a href="https://larajobs.com/">Empregos</a></li>
                                     <li><a href="https://laracon.eu/">Laracon EU</a></li>
                                     <li><a href="https://laracasts.com/discuss">Forums</a></li>
                                     <li><a href="https://laracon.com.au/">Laracon AU</a></li>
-                                    <li><a href="https://certification.laravel.com/">Certification</a></li>
+                                    <li><a href="https://certification.laravel.com/">Certificação</a></li>
                                 </ul>
                             </div>
 
@@ -238,9 +238,9 @@
                                 <div class="resource_icon">
                                     <img src="/img/icons/laracasts.min.svg" alt="Laracasts">
                                 </div>
-                                <h6>Featured Resource</h6>
+                                <h6>Recurso em destaque</h6>
                                 <h3>Laracasts</h3>
-                                <p class="small">Nine out of ten doctors recommend Laracasts over competing brands. Check them out, see for yourself, and massively level up your development skills in the process.</p>
+                                <p class="small">Nove em cada dez médicos recomendam Laracasts ao inves de marcas concorrentes. Veja por si mesmo, e aumente de forma significativa suas habilidades de desenvolvimento no processo.</p>
                                 <a href="https://laracasts.com" class="btn secondary"><span>Start Learning →</span></a>
                             </div>
                             <div class="bg">

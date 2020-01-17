@@ -8,28 +8,28 @@
             <nav class="main">
                 <div class="nav_contain">
                     <ul>
-                        <li class="docs_link"><a href="/docs">Documentation</a></li>
+                        <li class="docs_link"><a href="/docs">Documentação</a></li>
                         @if (SHOW_VAPOR)
                             <li class="forge_link"><a href="https://vapor.laravel.com">Vapor</a></li>
                         @else
                             <li class="forge_link"><a href="https://forge.laravel.com">Forge</a></li>
                         @endif
                         <li>
-                            <a href="#" class="drop_trigger">Ecosystem<span class="arrow"><img src="/img/icons/nav_arrow.min.svg" alt="Expand"></span></a>
+                            <a href="#" class="drop_trigger">Ecosistema<span class="arrow"><img src="/img/icons/nav_arrow.min.svg" alt="Expand"></span></a>
                             <div class="drop_contain">
                                 <ul class="ecosystem">
                                     <li class="sys_vapor">
                                         <a href="https://vapor.laravel.com">
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/vapor.min.svg" alt="Icon"></div>
-                                            <div class="system_info">Vapor <span>Serverless Platform</span></div>
+                                            <div class="system_info">Vapor <span>Plataforma Serverless</span></div>
                                         </a>
                                     </li>
                                     <li class="sys_forge">
                                         <a href="https://forge.laravel.com">
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/forge.min.svg" alt="Icon"></div>
-                                            <div class="system_info">Forge <span>Server Management</span></div>
+                                            <div class="system_info">Forge <span>Gerenciamento de Servidor</span></div>
                                         </a>
                                     </li>
                                     <li class="sys_envoyer">
@@ -37,7 +37,7 @@
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/envoyer.min.svg" alt="Icon">
                                             </div>
-                                            <div class="system_info">Envoyer <span>Zero Downtime Deployment</span></div>
+                                            <div class="system_info">Envoyer <span>Implantação Zero Downtime</span></div>
                                         </a>
                                     </li>
                                     <li class="sys_horizon">
@@ -45,7 +45,7 @@
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/horizon.min.svg" alt="Icon">
                                             </div>
-                                            <div class="system_info">Horizon <span>Queue Monitoring</span>
+                                            <div class="system_info">Horizon <span>Monitoramento de Filas</span>
                                             </div>
                                         </a>
                                     </li>
@@ -53,7 +53,7 @@
                                         <a href="https://nova.laravel.com/">
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/nova.min.svg" alt="Icon"></div>
-                                            <div class="system_info">Nova <span>Administration Panel</span>
+                                            <div class="system_info">Nova <span>Painel administrativo</span>
                                             </div>
                                         </a>
                                     </li>
@@ -61,7 +61,7 @@
                                         <a href="/docs/{{DEFAULT_VERSION}}/broadcasting">
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/echo.min.svg" alt="Icon"></div>
-                                            <div class="system_info">Echo <span>Realtime Events</span></div>
+                                            <div class="system_info">Echo <span>Eventos Realtime</span></div>
                                         </a>
                                     </li>
                                     <li class="sys_lumen">
@@ -78,7 +78,7 @@
                                                 <img src="/img/ecosystem/homestead.min.svg" alt="Icon">
                                             </div>
                                             <div class="system_info">Homestead
-                                                <span>Pre-Packaged Vagrant Box</span>
+                                                <span>Vagrant Box Pré-Empacotado</span>
                                             </div>
                                         </a>
                                     </li>
@@ -95,7 +95,7 @@
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/valet.min.svg" alt="Icon"></div>
                                             <div class="system_info">Valet
-                                                <span>Dev Environment for Macs</span>
+                                                <span>Ambiente de desenvolvimento para Macs</span>
                                             </div>
                                         </a>
                                     </li>
@@ -104,7 +104,7 @@
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/mix.min.svg" alt="Icon"></div>
                                             <div class="system_info">Mix
-                                                <span>Webpack Asset Compilation</span>
+                                                <span>Compilador Webpack</span>
                                             </div>
                                         </a>
                                     </li>
@@ -114,7 +114,7 @@
                                                 <img src="/img/ecosystem/cashier.min.svg" alt="Icon">
                                             </div>
                                             <div class="system_info">Cashier
-                                                <span>Subscription Billing Integration</span></div>
+                                                <span>Integração de Cobrança de Assinaturas</span></div>
                                         </a>
                                     </li>
                                     <li class="sys_dusk">
@@ -122,7 +122,7 @@
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/dusk.min.svg" alt="Icon"></div>
                                             <div class="system_info">Dusk
-                                                <span>Browser Testing and Automation</span></div>
+                                                <span>Browser Testing e Automação</span></div>
                                         </a>
                                     </li>
                                     <li class="sys_passport">
@@ -131,14 +131,14 @@
                                                 <img src="/img/ecosystem/passport.min.svg" alt="Icon">
                                             </div>
                                             <div class="system_info">Passport
-                                                <span>Painless OAuth2 Implementation</span></div>
+                                                <span>Implementação OAuth2 Simplificada</span></div>
                                         </a>
                                     </li>
                                     <li class="sys_scout">
                                         <a href="/docs/{{DEFAULT_VERSION}}/scout">
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/scout.min.svg" alt="Icon"></div>
-                                            <div class="system_info">Scout <span>Full-Text Search</span>
+                                            <div class="system_info">Scout <span>Busca de Texto</span>
                                             </div>
                                         </a>
                                     </li>
@@ -148,7 +148,7 @@
                                                 <img src="/img/ecosystem/socialite.min.svg" alt="Icon">
                                             </div>
                                             <div class="system_info">Socialite
-                                                <span>OAuth Authentication</span>
+                                                <span>Autenticação OAuth</span>
                                             </div>
                                         </a>
                                     </li>
@@ -157,7 +157,7 @@
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/telescope.min.svg" alt="Icon">
                                             </div>
-                                            <div class="system_info">Telescope <span>Debug Assistant</span>
+                                            <div class="system_info">Telescope <span>Assistente de Debug</span>
                                             </div>
                                         </a>
                                     </li>
@@ -165,14 +165,14 @@
                                         <a href="https://github.com/laravel/tinker">
                                             <div class="system_icon">
                                                 <img src="/img/ecosystem/tinker.min.svg" alt="Icon"></div>
-                                            <div class="system_info">Tinker <span>Interactive REPL</span></div>
+                                            <div class="system_info">Tinker <span>REPL Interativo</span></div>
                                         </a>
                                     </li>
                                 </ul>
                             </div>
                         </li>
-                        <li class="resources_link"><a href="https://laravel-news.com">News</a></li>
-                        <li class="partners_link"><a href="/partners">Partners</a></li>
+                        <li class="resources_link"><a href="https://laravel-news.com">Notícias</a></li>
+                        <li class="partners_link"><a href="/partners">Parceiros</a></li>
                     </ul>
                 </div>
             </nav>

@@ -32,7 +32,7 @@
                     <header class="docs_actions">
                         <div class="version_drop">
                             <div class="input_group">
-                                <label>Version</label>
+                                <label>Versão</label>
                                 <div class="custom_select">
                                     <select id="version_switcher" aria-label="Laravel version">
                                         @foreach ($versions as $key => $display)
