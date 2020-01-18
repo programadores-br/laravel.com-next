@@ -140,8 +140,8 @@
                         </div>
                     </div>
                     <div class="footer_info">
-                        <p class="small">Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in most web projects.</p>
-                        <p class="small copyright">Laravel is a Trademark of Taylor Otwell.<br>Copyright &copy; 2011-{{now()->format('Y')}} Laravel LLC.
+                        <p class="small">Laravel é um framework web com sintaxe expressiva e elegante. Acreditamos que o desenvolvimento deve ser uma experiencia agradavel e criativa para ser verdadeiramente gratificante. Laravel tenta eliminar as dificuldades do desenvolvimento, facilitando tarefas comuns usadas na maioria dos projetos de aplicações web.</p>
+                        <p class="small copyright">Laravel é um marca comercial de Taylor Otwell.<br>Copyright &copy; 2011-{{now()->format('Y')}} Laravel LLC.
                         </p>
                         <ul class="social_links">
                             <li><a href="https://twitter.com/laravelphp"><img src="/img/social/twitter.min.svg" alt="Twitter"></a>
