@@ -241,7 +241,7 @@
                                 <h6>Recurso em destaque</h6>
                                 <h3>Laracasts</h3>
                                 <p class="small">Nove em cada dez médicos recomendam Laracasts ao inves de marcas concorrentes. Veja por si mesmo, e aumente de forma significativa suas habilidades de desenvolvimento no processo.</p>
-                                <a href="https://laracasts.com" class="btn secondary"><span>Start Learning →</span></a>
+                                <a href="https://laracasts.com" class="btn secondary"><span>Comece a aprender →</span></a>
                             </div>
                             <div class="bg">
                                 <video poster="/img/blocks/blocks_4.jpg" playsinline autoplay muted loop>

@@ -36,13 +36,13 @@
         <div class="contain">
             <section class="partner_block">
                 <div class="content">
-                    <h2>Become a Laravel Partner</h2>
-                    <p>Laravel Partners are elite shops providing top-notch Laravel development and consulting. Each of our partners can help you craft a beautiful, well-architected project.</p>
+                    <h2>Torne-se um parceiro Lravel</h2>
+                    <p>Parceiros Laravel são lojas de elite que fornecem alto niel de desenvolvimento e consultoria. Cada um de nossos parceiros pode ajuda-lo a criar um belo projeto bem arquitetado.</p>
                 </div>
                 @if(request()->is('partners'))
-                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOTE1G6zxSPbKdmQ59UKkL_Rja_ddAyG6Y6xxGdSGAWlNTFA/viewform?usp=sf_link" class="btn"><span>Become A Partner</span></a>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeOTE1G6zxSPbKdmQ59UKkL_Rja_ddAyG6Y6xxGdSGAWlNTFA/viewform?usp=sf_link" class="btn"><span>Torne-se um parceiro</span></a>
                 @else
-                <a href="/partners" class="btn"><span>Our Partners</span></a>
+                <a href="/partners" class="btn"><span>Nossos parceiros</span></a>
                 @endif
             </section>
         </div>
@@ -63,21 +63,21 @@
                             <span class="footer_nav_trigger">Highlights</span>
                             <div class="footer_nav_contain">
                                 <ul>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/releases">Release Notes</a></li>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/installation">Getting Started</a></li>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/routing">Routing</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/releases">Notas de versão</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/installation">Começando</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/routing">Rotas</a></li>
                                     <li><a href="/docs/{{DEFAULT_VERSION}}/blade">Blade Templates</a></li>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/authentication">Authentication</a></li>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/authorization">Authorization</a></li>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/artisan">Artisan Console</a></li>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/database">Database</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/authentication">Autenticação</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/authorization">Autorização</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/artisan">Console Artisan</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/database">Banco de Dados</a></li>
                                     <li><a href="/docs/{{DEFAULT_VERSION}}/eloquent">Eloquent ORM</a></li>
-                                    <li><a href="/docs/{{DEFAULT_VERSION}}/testing">Testing</a></li>
+                                    <li><a href="/docs/{{DEFAULT_VERSION}}/testing">Testes</a></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="nav_col">
-                            <span class="footer_nav_trigger">Resources</span>
+                            <span class="footer_nav_trigger">Recursos</span>
                             <div class="footer_nav_contain">
                                 <ul>
                                     <li><a href="https://laracasts.com">Laracasts</a></li>
@@ -86,7 +86,7 @@
                                     <li><a href="https://laracon.eu/">Laracon EU</a></li>
                                     <li><a href="https://laracon.com.au/">Laracon AU</a></li>
                                     <li><a href="https://larajobs.com">Jobs</a></li>
-                                    <li><a href="https://certification.laravel.com/">Certification</a></li>
+                                    <li><a href="https://certification.laravel.com/">Certificação</a></li>
                                     <li><a href="https://laracasts.com/discuss">Forums</a></li>
                                     <!-- <li><a href="http://www.laravelpodcast.com/">Podcast</a></li> -->
                                     <!-- <li><a href="https://course.testdrivenlaravel.com/">Test-driven Laravel</a></li> -->
@@ -97,7 +97,7 @@
                             </div>
                         </div>
                         <div class="nav_col">
-                            <span class="footer_nav_trigger">Partners</span>
+                            <span class="footer_nav_trigger">Parceiros</span>
                             <div class="footer_nav_contain">
                                 <ul>
                                     <li><a href="https://vehikl.com">Vehikl</a></li>
@@ -115,7 +115,7 @@
                             </div>
                         </div>
                         <div class="nav_col">
-                            <span class="footer_nav_trigger">Ecosystem</span>
+                            <span class="footer_nav_trigger">Ecosistema</span>
                             <div class="footer_nav_contain">
                                 <ul>
                                     <li><a href="https://vapor.laravel.com">Vapor</a></li>
