@@ -13,7 +13,7 @@
                                 <img src="/img/ecosystem/vapor.min.svg" alt="Nova">
                             </div>
                             <div class="banner_content">
-                                <p class="small">Laravel Vapor Esta disponível! Inscreva=se hoje!
+                                <p class="small">Laravel Vapor Esta disponível! Inscreva-se hoje!
                                     <span class="arrow">→</span></p>
                             </div>
                         </a>
